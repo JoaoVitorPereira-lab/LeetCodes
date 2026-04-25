@@ -1,8 +1,7 @@
 # Two Sum
 #  nums = [2,7,11,15], target = 9 -> Output: [0,1]
 
-class Solution(object):
-   def twoSum(self, nums, target):
+def twoSum(nums, target):
       hasher = {}
 
       for idx, num in enumerate(nums):
@@ -15,5 +14,4 @@ class Solution(object):
 
       return []
 
-resp = Solution()
-print(resp.twoSum([2,5,11,7], 9))
+print(twoSum([2,5,11,7], 9))
