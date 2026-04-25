@@ -1,6 +1,7 @@
+# Link do problema: https://leetcode.com/problems/valid-anagram/description/
+
 # Valid Anagram
-# Menos código e mais rápido
-# Input: s = "anagram", t = "nagaram" Output: True 
+# Input: s = "anagram", t = "nagaram" Output: True
 # Input: s = "rat", t = "car" Output: False 
 
 def isAnagram(s, t):
@@ -16,3 +17,4 @@ def isAnagram(s, t):
    return True
 
 print(isAnagram("anagram", "nagaram"))
+print(isAnagram("rat", "car"))

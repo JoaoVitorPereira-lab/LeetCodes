@@ -1,3 +1,5 @@
+# Link do problema: https://leetcode.com/problems/contains-duplicate/description/
+
 # Contains Duplicate
 # [1,2,3,1] = True & [1,2,3,4] = False
 
@@ -13,3 +15,4 @@ def contains_Dups(nums):
    
             
 print(contains_Dups([1,2,3,1]))
+print(contains_Dups([1,2,3,4]))

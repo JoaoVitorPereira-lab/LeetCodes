@@ -1,4 +1,6 @@
-# Two Sum
+# Link do problema: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+
+# Two Sum II - Input Array Is Sorted
 #  nums = [2,7,11,15], target = 9 -> Output: [1,2]
 
 def twoSum(nums, target):

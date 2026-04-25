@@ -1,6 +1,6 @@
-# Input: "A man, a plan, a canal: Panama"
-# Output: True
-# Input: "Ekitike" || Input: "Arara"
+# Link do problema: https://leetcode.com/problems/valid-palindrome/description/
+
+# Input: "A man, a plan, a canal: Panama" || "Arara"
 # Output: True
 
 def isPalindrome(word):
@@ -23,4 +23,5 @@ def isPalindrome(word):
 
    return True
 
-print(isPalindrome("Ekitike"))
+print(isPalindrome("A man, a plan, a canal: Panama"))
+print(isPalindrome("Arara"))
