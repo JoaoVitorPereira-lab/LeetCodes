@@ -1,40 +1,53 @@
 # 🧠 LeetCode Solutions
 
-Repositório com minhas soluções de problemas do **LeetCode**, focado no desenvolvimento de lógica, algoritmos e estruturas de dados.
+Esse repositório é onde eu guardo as soluções dos problemas que venho resolvendo no LeetCode.
 
 ## 🚀 Objetivo
 
-Este repositório faz parte da minha jornada de evolução como desenvolvedor, com foco em:
+A ideia aqui é evoluir na prática:
 
-- Fortalecer o raciocínio lógico  
-- Aprender e aplicar estruturas de dados  
-- Melhorar a eficiência dos algoritmos  
-- Me preparar para entrevistas técnicas  
+- melhorar minha lógica de programação  
+- ficar mais confortável com estruturas de dados  
+- aprender a escrever soluções mais eficientes  
+- me preparar melhor para entrevistas técnicas  
 
 ## 🛠️ Linguagem
 
 - Python 🐍  
 
-## 📚 Sobre as soluções
+## 📂 Estrutura
 
-Cada problema resolvido busca seguir uma abordagem clara:
+Organizei de forma simples por dificuldade:
 
-- Entendimento do problema  
-- Definição da estratégia  
-- Implementação da solução  
-- (Sempre que possível) análise de complexidade  
+```
+leetcode/
+ ┣ 📂 easy/
+ ┣ 📂 medium/
+ ┗ 📂 hard/ (em breve)
+```
+
+## 📚 Como estou resolvendo
+
+Tento sempre seguir um padrão:
+
+- primeiro entender bem o problema  
+- pensar na melhor abordagem  
+- implementar  
+- depois revisar pra ver se dá pra melhorar  
+
+quando faz sentido, também analiso a complexidade.
 
 ## 📈 Progresso
 
-Atualmente em desenvolvimento... 🚧  
-Novos problemas são adicionados com frequência.
+- 🟢 Easy: XX  
+- 🟡 Medium: XX  
+- 🔴 Hard: em breve  
 
 ## 🎯 Foco atual
 
-- Construir consistência nos estudos  
-- Evoluir gradualmente da base até problemas mais complexos  
-- Priorizar aprendizado ao invés de quantidade  
+Agora estou focando mais em consistência do que quantidade.  
+A ideia é resolver problemas com frequência e ir evoluindo aos poucos.
 
 ## 📌 Observação
 
-Este repositório ainda está no início e será estruturado de forma mais detalhada conforme o progresso aumenta.
+O repositório ainda está no começo, então a organização deve melhorar com o tempo.
